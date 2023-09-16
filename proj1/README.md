@@ -1,4 +1,4 @@
-# ClassMateBot
+# 1. ClassMateBot
 
 | Metrics                                                                                                                                                                                     | Score | Evidence                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@
 | Does their project have a ticketing system to manage bug reports and feature requests?                                                                                                | yes   | [https://github.com/lyonva/ClassMateBot/projects/1](https://github.com/lyonva/ClassMateBot/projects/1)                                                               |
 | Is their project's ticketing system publicly visible to their users, so they can view bug reports and feature requests?                                                               | yes   | [https://github.com/lyonva/ClassMateBot/issues](https://github.com/lyonva/ClassMateBot/issues)                                                                       |
 
-# Dollar_bot
+# 2. Dollar_bot
 
 | Metrics                                                                                                                                                 | Score | Evidence                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -104,7 +104,7 @@
 | Does their project have a ticketing system to manage bug reports and feature requests?                                                                  | yes   | [https://github.com/usmanwardag/dollar_bot/projects?type=classic](https://github.com/usmanwardag/dollar_bot/projects?type=classic)                               |
 | Is their project's ticketing system publicly visible to their users, so they can view bug reports and feature requests?                                 | yes   | [https://github.com/usmanwardag/dollar_bot/issues](https://github.com/usmanwardag/dollar_bot/issues)                                                             |
 
-# feature-hunt
+# 3. feature-hunt
 
 | Metrics                                                                                                                                                 | Score | Evidence                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -157,7 +157,7 @@
 | Does their project have a ticketing system to manage bug reports and feature requests?                                                                   | yes   | Issues in GH                                                                                                                                                                                           |
 | Is their project's ticketing system publicly visible to their users, so they can view bug reports and feature requests?                                  | yes   | Public Repo                                                                                                                                                                                            |
 
-# slash-phase3
+# 4. slash-phase3
 
 | Ruberics                                                                                                                                                | Score | Evidence                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -213,7 +213,7 @@
 | Does their project have a ticketing system to manage bug reports and feature requests?                                                                  | no    | Evidence not Found.                                                                                                                                                        |
 | Is their project's ticketing system publicly visible to their users, so they can view bug reports and feature requests?                                 | yes   |
 
-# se_project1
+# 5. se_project1
 
 | Ruberics                                                                                                                                                | Score | Evidence                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
