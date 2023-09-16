@@ -52,7 +52,7 @@
 | Does their project have a ticketing system to manage bug reports and feature requests?                                                                                                | yes   | [https://github.com/lyonva/ClassMateBot/projects/1](https://github.com/lyonva/ClassMateBot/projects/1)                                                               |
 | Is their project's ticketing system publicly visible to their users, so they can view bug reports and feature requests?                                                               | yes   | [https://github.com/lyonva/ClassMateBot/issues](https://github.com/lyonva/ClassMateBot/issues)                                                                       |
 
-# 2. Dollar_bot (https://github.com/lyonva/ClassMateBot](https://github.com/usmanwardag/dollar_bot)
+# 2. Dollar_bot (https://github.com/usmanwardag/dollar_bot)
 
 | Metrics                                                                                                                                                 | Score | Evidence                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
