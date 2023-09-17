@@ -1,6 +1,6 @@
 # Project implementation video
 
-https://www.youtube.com/watch?v=1ggACaYu7HQ&ab_channel=MihirNikam
+Video link: https://www.youtube.com/watch?v=1ggACaYu7HQ&ab_channel=MihirNikam
 
 # Project Rubrics
 ## 1. ClassMateBot (https://github.com/lyonva/ClassMateBot)
