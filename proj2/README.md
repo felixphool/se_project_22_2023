@@ -1,3 +1,8 @@
+# Project implementation video
+
+[Video link](https://www.youtube.com/watch?v=1ggACaYu7HQ)
+
+# Project Rubrics
 SE Project (https://github.com/mrpudlo/SE_Project1)
 
 | Ruberics                                                                                                                                                | Score | Evidence                                                                                                                                                           |
