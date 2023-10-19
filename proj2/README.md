@@ -1,6 +1,6 @@
 # Project implementation video
 
-[Video link](https://www.youtube.com/watch?v=1ggACaYu7HQ)
+[Video link](https://www.youtube.com/watch?v=bRi_v8ERdq4&ab_channel=rushilpatel)
 
 # Project Rubrics
 SE Project (Forked link here: https://github.com/MuskKat/SE_Project1)
