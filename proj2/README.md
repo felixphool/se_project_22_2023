@@ -3,7 +3,7 @@
 [Video link](https://www.youtube.com/watch?v=bRi_v8ERdq4&ab_channel=rushilpatel)
 
 # Project Rubrics
-SE Project (Forked link here: https://github.com/MuskKat/SE_Project1)
+SE Project (Forked Project link here: https://github.com/MuskKat/SE_Project1)
 
 Sum of column 2 = 143
 
