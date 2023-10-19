@@ -5,6 +5,9 @@
 # Project Rubrics
 SE Project (Forked link here: https://github.com/MuskKat/SE_Project1)
 
+# Sum of column 2
+143
+
 | Ruberics                                                                                                                                                | Score | Evidence                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Video                                                                                                                                                   | 3     | Video is posted and can be seen on repository landing page in the readme.md file                                                            |
